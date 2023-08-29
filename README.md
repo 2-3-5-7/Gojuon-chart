@@ -1,4 +1,4 @@
-# Gojuon-chart
+# gojuon-copybook
 
 - 收集网络上常用的日语五十音字帖，移除水印和广告，方便打印
 - 推荐用 `matome-hiragana-rensyu-1right` 和 `matome-katakana-rensyu-1right`，文档是右利手版本，左利手版本可以从 [原网站](https://happylilac.net/kisetsu-sozai.html) 左侧的 `幼児プリント集` 里找到 `ひらがな練習プリント`、`カタカナ練習プリント`
